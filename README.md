@@ -10,7 +10,7 @@ in research and analyzing the relevance of a topic over time.
 
 This section will show you steps to follow in order to download all needed program dependencies on a Windows Operating System
 
-- Step 1: `Open Command Prompt`
+- Step 1: `On Windows Home search: Command Prompt`
 
 ## Example of Usage -
 
