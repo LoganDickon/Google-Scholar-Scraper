@@ -37,7 +37,9 @@ patents and citations.
 ![CO2 Scrubbing](/Files/Graph.png)
 
 ## Credits - 
-Created by Volker Strobel - volker.strobel87@gmail.com
+Created By: Volker Strobel (owner of original GitHub) - volker.strobel87@gmail.com
+
+Customized By: Logan Dickon (owner of this GitHub) - lad@atorlabs.com
 
 If you use this code in academic papers, please cite this repository via Zenodo (http://doi.org/10.5281/zenodo.1218409):
 
