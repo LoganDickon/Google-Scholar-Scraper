@@ -30,7 +30,11 @@ patents and citations.
 - input: `Enter an Excel file name: <Keyword2>`
 - Output: `Keyword2.csv`, with the following contents saved to a directory of your choosing:
 - Output: 
-  ![Output](/Files/CO2_Scrubbing.png)
+
+
+
+
+![Output](/Files/CO2_Scrubbing.png)
 
   
 
