@@ -6,7 +6,7 @@ This script extracts the historic word occurrence of a search term in
 academic papers from "Google Scholar". It allows for spotting trends
 in research and analyzing the relevance of a topic over time.
 
-## Preparing for Usage
+## Preparing for Usage -
 
 This section will show you steps to follow in order to download all needed program dependencies on a Windows Operating System
 
