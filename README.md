@@ -56,8 +56,7 @@ patents and citations.
   2021,4740
   2022,2120
 
-
-
+![GitHub Logo](Graph.png)
 
 ## Credits
 Created by Volker Strobel - volker.strobel87@gmail.com
