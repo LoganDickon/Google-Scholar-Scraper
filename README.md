@@ -15,6 +15,11 @@ This section will show you steps to follow in order to download all needed progr
 - Step 3: `Right Click & Select "Run as Administrator"`
 - Step 4: `Click "Yes" on the pop-up menu`
 - Now the Command Prompt should be open and ready for commands
+- Step 5: `pip install bs4`
+- Step 6: `pip install matplotlib`
+- Step 7: `pip install pandas`
+- Step 8: `Pip install requests`
+- Step 9: `pip freeze` Now look for the following on in the list: `beautifulsoup4` , `matplotlib`, `pandas`, `requests` 
 
 ## Example of Usage -
 
