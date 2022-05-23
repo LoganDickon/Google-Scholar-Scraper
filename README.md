@@ -29,7 +29,7 @@ patents and citations.
 - input: `Search: <Keyword>`
 - input: `Enter an Excel file name: <Keyword2>`
 - Output: `Keyword2.csv`, with the following contents saved to a directory of your choosing:
-- Output: ![GitHub Logo](/Files/CO2 Scrubbing.csv)
+- Output: ![GitHub Logo](/Files/CO2_Scrubbing.png)
 
   
 
