@@ -1,4 +1,4 @@
-# Historic word occurrence in academic papers 
+# Historic Word Occurrence in Academic Papers 
 
 ## Summary -
 
