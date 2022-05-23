@@ -6,17 +6,6 @@ This script extracts the historic word occurrence of a search term in
 academic papers from "Google Scholar". It allows for spotting trends
 in research and analyzing the relevance of a topic over time.
 
-## Usage -
-
-`Activate VPN (for best results)`
-`Python Scholar_Scraper.py <Start Date> <End Date>`
-`Search: <Keyword>`
-`Enter an Excel file name: <Keyword2>`
-
-This command lists the number of publications for every year using
-this keyword. The script just searches for articles and excludes
-patents and citations.
-
 ## Example of Usage -
 
 - Activate VPN (for best results)
@@ -29,8 +18,6 @@ patents and citations.
 - Output: 
 
 ![Output](/Files/CO2_Scrubbing.png)
-
-  
 
 ## Output Graph -
 
