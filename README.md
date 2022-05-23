@@ -21,7 +21,7 @@ This section will show you steps to follow in order to download all needed progr
 - Step 7: `pip install pandas`
 - Step 8: `Pip install requests`
 - Step 9: `pip freeze` Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
-- If the 4 dependencies were found in the List then you have successfully installed all needed files to run the program w/o error
+- If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error
 - Step 10: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload
 
 ## Pip Help -
