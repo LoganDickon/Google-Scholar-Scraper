@@ -23,13 +23,14 @@ patents and citations.
 ## Example
 
 - Activate VPN (for best results)
-- Search term: 'CO2 Scrubbing'
-- Desired time span: 2000 to 2022
+- Search term: `CO2 Scrubbing`
+- Desired time span: `2000` to `2022`
 - Command Prompt: `Python Scholar_Scraper.py <Start Date> <End Date>`
 - input: `Search: <Keyword>`
 - input: `Enter an Excel file name: <Keyword2>`
 - Output: `Keyword2.csv`, with the following contents saved to a directory of your choosing:
-- Output: `
+- Output:
+
   year,results
   2000,842
   2001,939
@@ -53,7 +54,7 @@ patents and citations.
   2019,4480
   2020,4820
   2021,4740
-  2022,2120`
+  2022,2120
 
 
 ![bitcoin chart](https://raw.githubusercontent.com/Pold87/academic-keyword-occurrence/master/bitcoin_chart.png "bitcoin chart")
