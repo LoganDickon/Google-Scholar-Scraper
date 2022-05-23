@@ -57,7 +57,7 @@ patents and citations.
   2022,2120
 
 
-![bitcoin chart](https://raw.githubusercontent.com/Pold87/academic-keyword-occurrence/master/bitcoin_chart.png "bitcoin chart")
+
 
 ## Credits
 Created by Volker Strobel - volker.strobel87@gmail.com
