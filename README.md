@@ -15,7 +15,7 @@ in research and analyzing the relevance of a topic over time.
 - input: `Search: <Keyword>`
 - input: `Enter an Excel file name: <Keyword2>`
 - Output: `Keyword2.csv`
-- Output: 
+- Output: `Table Below`
 
 ![Output](/Files/CO2_Scrubbing.png)
 
