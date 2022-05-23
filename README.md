@@ -28,6 +28,6 @@ Created By: Volker Strobel (owner of original GitHub) - volker.strobel87@gmail.c
 
 Customized By: Logan Dickon (owner of this GitHub) - lad@atorlabs.com
 
-If you use this code in academic papers, please cite this repository via Zenodo (http://doi.org/10.5281/zenodo.1218409):
+Original Github Repository: https://github.com/Pold87/academic-keyword-occurrence
 
 Volker Strobel. (2018, April 14). Pold87/academic-keyword-occurrence: First release (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1218409
