@@ -1,15 +1,15 @@
 # Google Scholar Scraper
 This repository will contain an updated version of "Volker Strobel's - Google Scholar" scraper
 
-# Historic word occurrence in academic papers
+# Historic word occurrence in academic papers -
 
-## Summary
+## Summary -
 
 This script extracts the historic word occurrence of a search term in
 academic papers from "Google Scholar". It allows for spotting trends
 in research and analyzing the relevance of a topic over time.
 
-## Usage
+## Usage -
 
 `Activate VPN (for best results)`
 `Python Scholar_Scraper.py <Start Date> <End Date>`
@@ -20,7 +20,7 @@ This command lists the number of publications for every year using
 this keyword. The script just searches for articles and excludes
 patents and citations.
 
-## Example
+## Example of Usage -
 
 - Activate VPN (for best results)
 - Search term: `CO2 Scrubbing`
@@ -35,11 +35,11 @@ patents and citations.
 
   
 
-## Graph
+## Output Graph -
 
 ![CO2 Scrubbing](/Files/Graph.png)
 
-## Credits
+## Credits - 
 Created by Volker Strobel - volker.strobel87@gmail.com
 
 If you use this code in academic papers, please cite this repository via Zenodo (http://doi.org/10.5281/zenodo.1218409):
