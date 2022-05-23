@@ -15,11 +15,32 @@ This section will show you steps to follow in order to download all needed progr
 - Step 3: `Right Click & Select "Run as Administrator"`
 - Step 4: `Click "Yes" on the pop-up menu`
 - Now the Command Prompt should be open and ready for commands
-- Step 5: `pip install bs4`
+- Step 5: `pip install bs4` If you receive a 'pip command not found' message then jump to Pip Help section
 - Step 6: `pip install matplotlib`
 - Step 7: `pip install pandas`
 - Step 8: `Pip install requests`
-- Step 9: `pip freeze` Now look for the following on in the list: `beautifulsoup4` , `matplotlib`, `pandas`, `requests` 
+- Step 9: `pip freeze` Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
+- If the 4 dependencies were found in the List then you have successfully installed all needed files to run the program w/o error
+- Step 10: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload
+
+## Pip Help -
+
+Did you receive the 'pip command not found' error?
+
+If yes, 
+- Step 1: `On Windows Home right click on the Start button`
+- Step 2: `Click: Apps and Features`
+- Step 3: `Scroll until you find your Python Installation (Ex. Python 3.10.4 (64-bit)`
+- Step 4: `Click 3 dots on right side of Python (not the Python Launcher)`
+- Step 5: `Click: Modify`
+- A pop-up installer for Python should open
+- Step 6: `Click: Modify`
+- Step 7: `Check Box: "pip"`
+- Step 8: `Click: Next`
+- Step 9: `Check Box: "Add Python to enviroment variables"`
+- Step 10: `Click: Install`
+- Step 11: `Click: Close`
+- `pip` Should be properly installed now. Try & redownload the dependencies
 
 ## Example of Usage -
 
