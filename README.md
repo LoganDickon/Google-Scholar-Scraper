@@ -16,11 +16,11 @@ This section will show you steps to follow in order to download all needed progr
 - Step 4: `Click "Yes" on the pop-up menu`
 - Now the Command Prompt should be open and ready for commands
 - If you receive a `'pip command not found'` message then jump to `Pip Help` section
-- Step 5: `pip install bs4`
-- Step 6: `pip install matplotlib`
-- Step 7: `pip install pandas`
-- Step 8: `Pip install requests`
-- Step 9: `pip freeze` Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
+- Step 5: `Type: pip install bs4`
+- Step 6: `Type: pip install matplotlib`
+- Step 7: `Type: pip install pandas`
+- Step 8: `Type: Pip install requests`
+- Step 9: `Type: pip freeze` Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
 - If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error
 - Step 10: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload
 
