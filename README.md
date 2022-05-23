@@ -10,7 +10,11 @@ in research and analyzing the relevance of a topic over time.
 
 This section will show you steps to follow in order to download all needed program dependencies on a Windows Operating System
 
-- Step 1: `On Windows Home search: Command Prompt`
+- Step 1: `Click on Windows Home search bar`
+- Step 2: `Search: Command Prompt`
+- Step 3: `Right Click & Select "Run as Administrator"`
+- Step 4: `Click "Yes" on the pop-up menu`
+- Now the Command Prompt should be open and ready for commands
 
 ## Example of Usage -
 
