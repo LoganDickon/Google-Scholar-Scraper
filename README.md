@@ -14,7 +14,7 @@ in research and analyzing the relevance of a topic over time.
 - Command Prompt: `Python Scholar_Scraper.py <Start Date> <End Date>`
 - input: `Search: <Keyword>`
 - input: `Enter an Excel file name: <Keyword2>`
-- Output: `Keyword2.csv`, with the following contents saved to a directory of your choosing:
+- Output: `Keyword2.csv`
 - Output: 
 
 ![Output](/Files/CO2_Scrubbing.png)
