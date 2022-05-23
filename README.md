@@ -6,42 +6,54 @@ This repository will contain an updated version of "Volker Strobel's - Google Sc
 ## Summary
 
 This script extracts the historic word occurrence of a search term in
-academic papers (from Google Scholar). It allows for spotting trends
+academic papers from "Google Scholar". It allows for spotting trends
 in research and analyzing the relevance of a topic over time.
-
-There is a Python 3 branch (master) and a Python 2 branch (python2).
 
 ## Usage
 
-`python extract_occurrences.py '<keyword>' <start date> <end date>`
+`Activate VPN (for best results)`
+`Python Scholar_Scraper.py <Start Date> <End Date>`
+`Search: <Keyword>`
+`Enter an Excel file name: <Keyword2>`
 
 This command lists the number of publications for every year using
 this keyword. The script just searches for articles and excludes
 patents and citations.
 
-
-### Alternative: Usage with Docker
-
-You can use [Docker](https://www.docker.com/) to run this script, without the need of having Python or its dependencies installed.
-
-1. Update the `command` with your search term and time range in `docker-compose.yml`
-2. run `docker-compose up`
-
 ## Example
 
-- Search term: 'bitcoin'
-- Desired time span: 2000 to 2015
-- Command: `python extract_occurrences.py 'bitcoin' 2000 2015`
-- Output: `out.csv`, with the following contents:
-
-| year | results |
-|------|---------
-| ...  |    ...  |	|
-| 2011 |    141  |
-| 2012 |    292  |
-| 2013 |    889  |
-| 2014 |    2370 |
-| 2015 |    2580 |
+- Activate VPN (for best results)
+- Search term: 'CO2 Scrubbing'
+- Desired time span: 2000 to 2022
+- Command Prompt: `Python Scholar_Scraper.py <Start Date> <End Date>`
+- input: `Search: <Keyword>`
+- input: `Enter an Excel file name: <Keyword2>`
+- Output: `Keyword2.csv`, with the following contents saved to a directory of your choosing:
+- Output: `
+  year,results
+  2000,842
+  2001,939
+  2002,1010
+  2003,1020
+  2004,1210
+  2005,1370
+  2006,1370
+  2007,1470
+  2008,1770
+  2009,2220
+  2010,2000
+  2011,2780
+  2012,3130
+  2013,3650
+  2014,3640
+  2015,3780
+  2016,4000
+  2017,4350
+  2018,4280
+  2019,4480
+  2020,4820
+  2021,4740
+  2022,2120`
 
 
 ![bitcoin chart](https://raw.githubusercontent.com/Pold87/academic-keyword-occurrence/master/bitcoin_chart.png "bitcoin chart")
