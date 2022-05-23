@@ -1,7 +1,4 @@
-# Google Scholar Scraper
-This repository will contain an updated version of "Volker Strobel's - Google Scholar" scraper
-
-# Historic word occurrence in academic papers
+# Historic word occurrence in academic papers 
 
 ## Summary -
 
