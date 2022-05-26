@@ -6,6 +6,8 @@ This script extracts the historic word occurrence of a search term in
 academic papers from "Google Scholar". It allows for spotting trends
 in research and analyzing the relevance of a topic over time.
 
+## Link - 
+
 https://scholar.google.com/
 
 ## Preparing for Usage -
