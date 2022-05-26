@@ -44,7 +44,7 @@ If yes,
 - Step 11: `Check Box: "Add Python to enviroment variables"`
 - Step 12: `Click: Install`
 - Step 13: `Click: Close`
-- Step 14: `pip` Should be properly installed now. Try & redownload the dependencies
+- Step 14: `pip Should be properly installed now. Try & redownload the dependencies`
 
 ## Example of Usage -
 
