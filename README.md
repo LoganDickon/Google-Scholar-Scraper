@@ -20,28 +20,31 @@ This section will show you steps to follow in order to download all needed progr
 - Step 6: `Type: pip install matplotlib`
 - Step 7: `Type: pip install pandas`
 - Step 8: `Type: pip install requests`
-- Step 9: `Type: pip freeze`, Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
-- If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error
-- Step 10: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload
+- Step 9: `Type: pip freeze`
+- Step 10: Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
+- Step 11: If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error
+- Step 12: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload via pip
+- 
 
 ## Pip Help -
 
-Did you receive the 'pip command not found' error?
+Did you receive the "pip: command not found" error?
 
 If yes, 
-- Step 1: `On Windows Home right click on the Start button`
-- Step 2: `Click: Apps and Features`
-- Step 3: `Scroll until you find your Python Installation (Ex. Python 3.10.4 (64-bit)`
-- Step 4: `Click 3 dots on right side of Python (not the Python Launcher)`
-- Step 5: `Click: Modify`
-- A pop-up installer for Python should open
+- Step 1: `Make sure pip is lowercase and try again`
+- Step 2: `On Windows Home right click on the Start button`
+- Step 3: `Click: Apps and Features`
+- Step 4: `Scroll until you find your Python Installation (Ex. Python 3.10.4 (64-bit)`
+- Step 5: `Click 3 dots on right side of Python (not the Python Launcher)`
 - Step 6: `Click: Modify`
-- Step 7: `Check Box: "pip"`
-- Step 8: `Click: Next`
-- Step 9: `Check Box: "Add Python to enviroment variables"`
-- Step 10: `Click: Install`
-- Step 11: `Click: Close`
-- `pip` Should be properly installed now. Try & redownload the dependencies
+- Step 7: `A pop-up installer for Python should open`
+- Step 8: `Click: Modify`
+- Step 9: `Check Box: "pip"`
+- Step 10: `Click: Next`
+- Step 11: `Check Box: "Add Python to enviroment variables"`
+- Step 12: `Click: Install`
+- Step 13: `Click: Close`
+- Step 14: `pip` Should be properly installed now. Try & redownload the dependencies
 
 ## Example of Usage -
 
