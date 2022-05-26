@@ -15,7 +15,7 @@ This section will show you steps to follow in order to download all needed progr
 - Step 3: `Right Click & Select "Run as Administrator"`
 - Step 4: `Click "Yes" on the pop-up menu`
 - Now the Command Prompt should be open and ready for commands
-- On `steps 5 - 9` if you receive a `"pip command not found"` message then jump to `Pip Help` section
+- On `steps 5 - 9` if you receive a `"pip: command not found"` message then jump to `Pip Help` section
 - Step 5: `Type: pip install bs4`
 - Step 6: `Type: pip install matplotlib`
 - Step 7: `Type: pip install pandas`
