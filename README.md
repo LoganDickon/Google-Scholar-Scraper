@@ -14,16 +14,16 @@ This section will show you steps to follow in order to download all needed progr
 - Step 2: `Search: Command Prompt`
 - Step 3: `Right Click & Select "Run as Administrator"`
 - Step 4: `Click "Yes" on the pop-up menu`
-- Now the Command Prompt should be open and ready for commands
+- Step 5: `Now the Command Prompt should be open and ready for commands`
 - On `steps 5 - 9` if you receive a `"pip: command not found"` message then jump to `Pip Help` section
-- Step 5: `Type: pip install bs4`
-- Step 6: `Type: pip install matplotlib`
-- Step 7: `Type: pip install pandas`
-- Step 8: `Type: pip install requests`
-- Step 9: `Type: pip freeze`
-- Step 10: Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
-- Step 11: If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error
-- Step 12: If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload via pip
+- Step 6: `Type: pip install bs4`
+- Step 7: `Type: pip install matplotlib`
+- Step 8: `Type: pip install pandas`
+- Step 9: `Type: pip install requests`
+- Step 10: `Type: pip freeze`
+- Step 11: Now look for the following inside the List: `beautifulsoup4` , `matplotlib`, `pandas`, `requests`
+- Step 12: `If the dependencies were found in your List, then you have successfully installed all needed files to run the program w/o error`
+- Step 13: `If the 4 were not found in the List, then check to see if you are in adminstrator mode, then try & redownload via pip`
 - 
 
 ## Pip Help -
